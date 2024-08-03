@@ -1,0 +1,9 @@
+.car-icon {
+    width: 40px;
+    height: 40px;
+    background: url('../../public/carIcon.png') no-repeat center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    transform-origin: center;
+  }
+  
